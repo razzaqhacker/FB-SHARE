@@ -31,7 +31,7 @@ git clone --depth=1 https://github.com/U7P4L-IN/FB-Share.git
 
 cd FB-Share
 
-python Share.py
+python Cookies.py
 ```
 #### Screenshots:
 
