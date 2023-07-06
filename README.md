@@ -27,11 +27,11 @@ pip install futures
 pip install mechanize
 cd $HOME 
 rm -rf FB-Share
-git clone --depth=1 https://github.com/U7P4L-IN/FB-Share.git
+git clone --depth=1 https://github.com/U7P4L-IN/FB-SHARE.git
 
-cd FB-Share
+cd FB-SHARE
 
-python Cookies.py
+python Share.py
 ```
 #### Screenshots:
 
