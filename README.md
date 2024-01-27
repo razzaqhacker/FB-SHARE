@@ -15,7 +15,7 @@
 </br>
 <p align="center">
 
->Encryption is used to protect data from being stolen, changed, or compromised and works by scrambling data into a secret code that can only be unlocked with a unique digital key.
+> Facebook auto-share lets you automatically publish Public posts to your page, groups, or other accounts, saving you time and boosting engagement. 
 
 ## Language</br>
 
