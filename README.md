@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FB%20SHARE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FB%20SHARE%20IS%20SCRIPT%20FOR%20FB%20BOT%20SHARE&descAlignY=51&descAlign=62)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FB%20SHARE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FB%20AUTO%20SHARE%20SCRIPT%20FOR%20FB%20PUBLIC%20POST%20SHARING&descAlignY=51&descAlign=62" width="100%"/>
+</p></br>
 
 </p>
    <p align="center">
@@ -24,13 +25,43 @@
 
 </p>
 
-## Tested On >
+<h4 align="left">About > </h4><br>
 
-* KALI LINUX
+* Unlimited Usage !
+* Support Newest Android also
+* Working Apis
+* Working with all Oparetors/Carriers
+<br>
+<h4 align="left">TESTED ON > </h4><br>
 
-* TERMUX
+* Kali Linux
+* Termux
+* Mac os
+* Ubuntu
+* Perrot Sec OS
+
+## Contributing
+Feel Free To Clone This Project. For Major Changes, Please Open An Issue First To Discuss What You Would Like To Change Or Add, Thank You!!.
+
 
 ### Installation >
+
+ 
+## INSTALL  ON TERMUX
+```python
+apt update && apt upgrade -y
+pkg install git
+pkg install python
+git clone --depth=1 https://github.com/U7P4L-IN/FB-SHARE.git
+cd FB-SHARE
+python3 SHARE.py
+```
+<p align="center"><img src="/Image/carbon.png">
+
+### TERMUX
+
+<p align="center"><img src="/Image/demo1.jpg">
+<p align="center"><img src="/Image/demo2.jpg">
 
 ### Kali Linux / Ubuntu / Parrot OS >
 ```python
@@ -41,36 +72,45 @@
     ls
     sudo python3 SHARE.py
 ```
-  
-## INSTALL  ON TERMUX
-```python
-apt update && apt upgrade -y
-pkg install git
-pkg install python
-pip install requests
-git clone --depth=1 https://github.com/U7P4L-IN/FB-SHARE.git
-cd FB-SHARE
-python3 SHARE.py
-```
+
+
 ## LINUX >
 
-<p align="center"><img src="https://github.com/U7P4L-IN/FB-SHARE/blob/master/Image/Screenshot%20from%202024-01-27%2009-51-56.png">
+<p align="center"><img src="/Image/demo3.png">
+<p align="center"><img src="/Image/demo4.png">
+<p align="center"><img src="/Image/demo5.png">
 
-<p align="center"><img src="https://github.com/U7P4L-IN/FB-SHARE/blob/master/Image/Screenshot%20from%202024-01-27%2010-23-04.png">
 
-## TERMUX >
+### Languages :
 
-<p align="center"><img src="https://github.com/U7P4L-IN/FB-SHARE/blob/master/Image/GridArt_20240127_220231667.jpg">
 
-### Tools Languages :
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=FB-SHARE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="100%"/>
+</p>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=FB-SHARE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+<h2 align="center">LICENSE</h2>
+
+Fb Share is released under the MIT license, which grants the following permissions:
+- Commercial use
+- Modification
+- Distribution
+- Patent use
+- Private use
+
+For more convoluted language, see the [LICENSE](/LICENSE).
+</br>
+
+<p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="300" height="100" src="https://i.imgur.com/N7AK7XY.png"></a></p>
+
+</br>
+
+# Report bugs
+If you notice issues while installing this tool or running this tool kindly mail to me at <a href="mailto: lisame0007@gmail.com">Gmail</a> or Open an issue via github.
 
 <h5 align="center"><b>DESCRIPTION</b></h5>
 
-> [!NOTE]  
-> All the tools are belongs to their copyright owner, and this use is in accordance with the terms and conditions of the copyright holder.
-
+* ©️ Copyright Message
+>> Copyright © [2023-27] [U7P4L-IN]
+>All rights reserved. This Python project, along with its code, documentation, and any associated files, is the intellectual property of ANONYMOUS CYBER. You may not reproduce, distribute, or modify the contents of this repository without explicit permission from the owner.
 # Give A Star ⭐
 
-> You can also give this repository a star to show more people and they can use this repository
+> You can also give this repository a star to show more people and they can use this repository.
